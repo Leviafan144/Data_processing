@@ -1,0 +1,38 @@
+2026-07-20 13:49:05,563 - INFO - ============================================================
+2026-07-20 13:49:05,563 - INFO - Bio-Logic .mpr File Extraction Started
+2026-07-20 13:49:05,564 - INFO - Input directory: C:\pycharm\PythonProject7
+2026-07-20 13:49:05,564 - INFO - Output CSV: C:\pycharm\PythonProject7\combined_electrochemical_data.csv
+2026-07-20 13:49:05,564 - INFO - ============================================================
+2026-07-20 13:49:05,565 - INFO - Found 1 .mpr files
+2026-07-20 13:49:05,566 - INFO - Reading: Pos_41-24h_10pvdf_20Ñ_03_CV_C01.mpr
+2026-07-20 13:49:05,570 - INFO - Successfully read Pos_41-24h_10pvdf_20Ñ_03_CV_C01.mpr: 10123 rows, 8 columns
+2026-07-20 13:50:13,036 - INFO - ============================================================
+2026-07-20 13:50:13,036 - INFO - Successfully processed: 1/1 files
+2026-07-20 13:50:13,036 - INFO - Combining all dataframes...
+2026-07-20 13:50:13,039 - INFO - Exporting to CSV: C:\pycharm\PythonProject7\combined_electrochemical_data.csv
+2026-07-20 13:50:13,160 - INFO - ============================================================
+2026-07-20 13:50:13,160 - INFO - EXTRACTION SUMMARY
+2026-07-20 13:50:13,160 - INFO - ============================================================
+2026-07-20 13:50:13,161 - INFO - Total rows extracted: 10,123
+2026-07-20 13:50:13,161 - INFO - Total columns: 11
+2026-07-20 13:50:13,161 - INFO - Output file size: 1232.41 KB
+2026-07-20 13:50:13,161 - INFO - 
+2026-07-20 13:50:13,161 - INFO - Successfully processed files:
+2026-07-20 13:50:13,161 - INFO -   - Pos_41-24h_10pvdf_20Ñ_03_CV_C01.mpr: 10,123 rows
+2026-07-20 13:50:13,161 - INFO - 
+2026-07-20 13:50:13,161 - INFO - Column names:
+2026-07-20 13:50:13,161 - INFO -   - source_file
+2026-07-20 13:50:13,162 - INFO -   - technique
+2026-07-20 13:50:13,162 - INFO -   - file_index
+2026-07-20 13:50:13,162 - INFO -   - time/s
+2026-07-20 13:50:13,162 - INFO -   - cycle number
+2026-07-20 13:50:13,162 - INFO -   - Ewe/V
+2026-07-20 13:50:13,162 - INFO -   - (Q-Qo)/C
+2026-07-20 13:50:13,162 - INFO -   - <I>/mA
+2026-07-20 13:50:13,162 - INFO -   - I Range
+2026-07-20 13:50:13,162 - INFO -   - control/V
+2026-07-20 13:50:13,162 - INFO -   - flags
+2026-07-20 13:50:13,162 - INFO - ============================================================
+2026-07-20 13:50:13,162 - INFO - Extraction completed successfully!
+2026-07-20 13:50:13,162 - INFO - Log file: C:\pycharm\PythonProject7\extraction_log.txt
+2026-07-20 13:50:13,163 - INFO - ============================================================
